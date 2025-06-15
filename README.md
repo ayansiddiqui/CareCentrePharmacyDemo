@@ -7,3 +7,9 @@
 
 
 
+
+## LLM Demo Agent
+
+The lightweight LLM demo previously included in this repository has been
+moved to a standalone folder [`LLMDemoStandalone`](./LLMDemoStandalone) so
+it can be turned into its own Git repository if desired.
